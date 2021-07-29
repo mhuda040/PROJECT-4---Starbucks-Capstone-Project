@@ -64,8 +64,9 @@ Run the Starbucks_Capstone_notebook.ipynb file by going to the terminal, selecti
 
 ## Summary Highlights
 
-- Majority of Starbucks customers in the dataset were male, had a higher income, and were more likely to respond to an offer than females.
-- In modeling the transcript data, K-Nearest Neighbors classifier performed poorly for BOGO and Discount offers
+- Majority of Starbucks customers in the dataset were male, had a higher income, and were more likely to respond to an offer than females
+- It is suggested that Starbucks could give more offers to male customers; the more offers given, the more likely male customers will continue to purchase their beverages from Starbucks
+- In modeling the transcript data, K-Nearest Neighbors classifier did not perform well for BOGO and Discount offers
 - Decision Tree was the best classifier for the Training data; AdaBoost was the best classifier for the Test data
 - Decision Tree is best for Discount; AdaBoost is best for BOGO
 - Train and Test scores for AdaBoost were similar in both BOGO and Discount
