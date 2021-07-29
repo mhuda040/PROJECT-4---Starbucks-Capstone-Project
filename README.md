@@ -66,7 +66,7 @@ Must include the following libraries in the Starbucks_Capstone_notebook.ipynb fi
 
 Run the Starbucks_Capstone_notebook.ipynb file by going to the terminal, selecting Cell, then Run All.  If using a different Jupyter Notebook, please ensure the above installation criteria are met and that there is an option to run all Python cells in the Starbucks_Capstone_notebook.ipynb file.
 
-## Summary Highlights
+## Summary and Highlights
 
 - Majority of Starbucks customers in the dataset were male, had a higher income, and were more likely to respond to an offer than females
 - It is suggested that Starbucks could give more offers to male customers; the more offers given, the more likely male customers will continue to purchase their beverages from Starbucks
