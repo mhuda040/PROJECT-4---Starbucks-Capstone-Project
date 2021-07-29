@@ -6,7 +6,7 @@
 
 ## Project Overview and Motivation
 
-This project will analyze simulated data from the Starbucks mobile app regarding offers and promotions.  The dataset for this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
+This project will analyze simulated data from the Starbucks mobile app regarding offers and promotions.  The dataset for this project contains data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
 Please note that the dataset is not the real dataset used for the Starbucks mobile app, as Starbucks sells a variety of products.  The dataset contains only one product.
 
