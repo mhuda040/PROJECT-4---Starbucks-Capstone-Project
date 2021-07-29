@@ -1,6 +1,6 @@
 # PROJECT 4 (CAPSTONE PROJECT) - Starbucks-Capstone-Project
 
-##Medium Blog Post:
+## Medium Blog Post:
 
 (to be posted soon)
 
