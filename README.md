@@ -2,7 +2,7 @@
 
 ## Medium Blog Post
 
-(to be posted soon)
+https://mhuda-97529.medium.com/data-analysis-of-starbucks-offers-e121ed7b64a7
 
 ## Project Overview and Motivation
 
